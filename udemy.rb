@@ -1,8 +1,5 @@
-a = 1
-b = 2
-c = a + b
+a = "string1"
+b = "string2"
 
 puts a
 puts b
-puts c
-puts a + b
